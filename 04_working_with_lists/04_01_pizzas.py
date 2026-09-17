@@ -10,5 +10,3 @@ for taco in tacos:
 print ("Loop is done")
 print ("That Taco is delicious!")
 
-for numbers in range(1,21):
-    print (numbers)
